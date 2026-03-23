@@ -19,5 +19,5 @@ I like managing my stuff with code or config files, and I made all of this publi
 
 ## Projects
 
-- 🧊 **OpenSCAD** — [openscad-projects](https://github.com/ametis70/openscad-projects) — Stuff I design for 3D printing to organize my desk (mostly)
-- 🧚 **Sheikah Converter** — [sheikah-converter](https://github.com/ametis70/sheikah-converter) TLoZ: BotW save file converter (between Wii U and Switch formats)
+- 🧊 **OpenSCAD** — [openscad-projects](https://github.com/ametis70/openscad-projects) — Stuff I design for 3D printing to organize my desk (mostly).
+- 🧚 **Sheikah Converter** — [sheikah-converter](https://github.com/ametis70/sheikah-converter) TLoZ: BotW save file converter (between Wii U and Switch formats).
