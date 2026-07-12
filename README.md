@@ -19,6 +19,7 @@ I like managing my stuff with code or config files, and I made all of this publi
 
 ## Projects
 
-- 🧊 **OpenSCAD** — [openscad-projects](https://github.com/ametis70/openscad-projects) — Stuff I design for 3D printing to organize my desk (mostly).
+- 🧊 **3D models** — [openscad-projects](https://github.com/ametis70/openscad-projects) — Stuff I design for 3D printing to organize my desk (mostly).
+- 🚀 **Launchscope** — [openscad-projects](https://github.com/ametis70/launchscope) — App launcher for Linux with a client/server model.
 - 🧚 **Sheikah Converter** — [sheikah-converter](https://github.com/ametis70/sheikah-converter) TLoZ: BotW save file converter (between Wii U and Switch formats).
 - 😈 **WebBoom** — [webboom](https://github.com/ametis70/webboom) Web (Emscripten) port of Doom based on PrBoom+.
