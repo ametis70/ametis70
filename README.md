@@ -23,3 +23,4 @@ I like managing my stuff with code or config files, and I made all of this publi
 - 🚀 **Launchscope** — [launchscope](https://github.com/ametis70/launchscope) — App launcher for Linux with a client/server model.
 - 🧚 **Sheikah Converter** — [sheikah-converter](https://github.com/ametis70/sheikah-converter) TLoZ: BotW save file converter (between Wii U and Switch formats).
 - 😈 **WebBoom** — [webboom](https://github.com/ametis70/webboom) Web (Emscripten) port of Doom based on PrBoom+.
+- 💀 **Hellbot** — [hellbot](https://github.com/ametis70/hellbot) Helldivers 1 galactic campaign bot
